@@ -6,7 +6,7 @@ export default function hero() {
   return (
     <section className="my-8 flex flex-col items-center justify-center">
       <h1 className="mb-4 text-[1.4rem] md:text-[2rem]">
-        <MotionText delayOffset={0}>Hi, I'm Eric Huang! 👋</MotionText>
+        <MotionText delayOffset={0}>Hi, I'm Samiya Maharjan! 👋</MotionText>
       </h1>
       <div className="overflow-hidden rounded-full p-3 md:p-4">
         <MotionDiv>
